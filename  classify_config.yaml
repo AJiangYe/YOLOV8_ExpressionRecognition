@@ -1,0 +1,4 @@
+task: classify
+mode: predict
+model: ./runs/detect/train3/weights/best.pt
+imgsz: 640
