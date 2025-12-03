@@ -1,0 +1,2 @@
+# YOLOV8_ExpressionRecognition
+基于YOLOV8开发的轻量化情绪识别系统的研究与开发
